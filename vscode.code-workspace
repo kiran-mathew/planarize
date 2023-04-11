@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../bootstrap-5.0.2-dist"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "vscode"
+	}
+}
